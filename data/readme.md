@@ -8,6 +8,6 @@
 
 **Các bước gán nhãn cho data**
 1. lấy file csv về, chỉnh sửa các câu tiếng việt lại nếu cần
-2. chuyển các file csv sau khi chỉnh sử câu tiếng việt hoàn chỉnh về dạng json
+2. chuyển các file csv sau khi chỉnh sử câu tiếng việt hoàn chỉnh về dạng json bằng notebook convert_json.ipynb
 3. dùng label studio gán nhãn
 4. tải lên file completion.json vào thư mục này
