@@ -11,3 +11,5 @@
 2. chuyển các file csv sau khi chỉnh sử câu tiếng việt hoàn chỉnh về dạng json bằng notebook convert_json.ipynb
 3. dùng label studio gán nhãn
 4. tải lên file completion.json vào thư mục này
+
+**Đọc file Guideline ATIS_Vietnamese.pdf để biết cách gán nhãn**
