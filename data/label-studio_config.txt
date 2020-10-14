@@ -1,0 +1,140 @@
+<View>
+  <Labels name="label" toName="VN">
+
+    <Label value="B-airline_code" background="#482"/>
+    <Label value="I-depart_date.day_number" background="#482"/>
+    <Label value="I-fromloc.airport_name" background="#482"/>
+    <Label value="B-flight_number" background="#482"/>
+    <Label value="B-arrive_date.day_name" background="#482"/>
+    <Label value="B-toloc.state_code" background="#482"/>
+    <Label value="B-depart_date.date_relative" background="#482"/>
+    <Label value="B-depart_date.today_relative" background="#482"/>
+    <Label value="B-fromloc.airport_name" background="#482"/>
+    <Label value="B-toloc.state_name" background="#482"/>
+    <Label value="B-fare_basis_code" background="#482"/>
+    <Label value="B-or" background="#482"/>
+    <Label value="B-flight_time" background="#482"/>
+    <Label value="B-arrive_time.period_of_day" background="#482"/>
+    <Label value="I-airport_name" background="#482"/>
+    <Label value="B-meal_description" background="#482"/>
+    <Label value="I-cost_relative" background="#482"/>
+    <Label value="B-fare_amount" background="#482"/>  
+    
+    <Label value="I-toloc.airport_name" background="#482"/>  
+    <Label value="I-city_name" background="#482"/>  
+    <Label value="I-fare_amount" background="#482"/>  
+    <Label value="B-arrive_date.day_number" background="#482"/>  
+    <Label value="B-arrive_date.month_name" background="#482"/>  
+    <Label value="B-meal" background="#482"/>  
+    <Label value="B-fromloc.state_code" background="#482"/>  
+    <Label value="I-stoploc.city_name" background="#482"/>  
+    <Label value="B-transport_type" background="#482"/>  
+    <Label value="B-flight_days" background="#482"/>  
+    <Label value="B-connect" background="#482"/>  
+    <Label value="B-fromloc.state_name" background="#482"/>  
+    <Label value="B-toloc.airport_name" background="#482"/>  
+    <Label value="B-depart_time.period_mod" background="#482"/>  
+    <Label value="B-economy" background="#482"/>  
+    <Label value="B-airport_name" background="#482"/>  
+    <Label value="B-aircraft_code" background="#482"/>  
+    <Label value="B-mod" background="#482"/>  
+    <Label value="I-flight_time" background="#482"/>  
+    <Label value="B-airport_code" background="#482"/>  
+    <Label value="B-depart_time.end_time" background="#482"/>  
+    <Label value="B-depart_time.start_time" background="#482"/>  
+    <Label value="B-restriction_code" background="#482"/> 
+    
+    
+    <Label value="B-depart_date.year" background="#482"/>  
+    <Label value="I-transport_type" background="#482"/>  
+    <Label value="B-arrive_time.start_time" background="#482"/>  
+    <Label value="I-depart_time.end_time" background="#482"/>  
+    <Label value="B-arrive_time.end_time" background="#482"/>  
+    <Label value="B-toloc.airport_code" background="#482"/>  
+    <Label value="I-arrive_time.end_time" background="#482"/>  
+    <Label value="I-flight_stop" background="#482"/>  
+    <Label value="B-fromloc.airport_code" background="#482"/>  
+    <Label value="I-restriction_code" background="#482"/>  
+    <Label value="I-depart_date.today_relative" background="#482"/>  
+    <Label value="I-depart_time.start_time" background="#482"/>  
+    <Label value="I-toloc.state_name" background="#482"/>  
+    <Label value="I-economy" background="#482"/>  
+    <Label value="I-flight_mod" background="#482"/>  
+    <Label value="B-arrive_date.date_relative" background="#482"/>  
+    <Label value="I-arrive_time.start_time" background="#482"/>  
+    <Label value="I-fromloc.state_name" background="#482"/>  
+    <Label value="B-return_date.date_relative" background="#482"/>  
+    <Label value="B-state_code" background="#482"/>  
+    <Label value="B-meal_code" background="#482"/>  
+    <Label value="I-arrive_date.day_number" background="#482"/>  
+    <Label value="I-depart_time.period_of_day" background="#482"/>  
+    <Label value="B-stoploc.state_code" background="#482"/>  
+    <Label value="I-meal_code" background="#482"/>  
+    <Label value="B-arrive_time.period_mod" background="#482"/>  
+    <Label value="B-period_of_day" background="#482"/>  
+    
+    <Label value="B-day_name" background="#482"/>  
+    <Label value="I-today_relative" background="#482"/>  
+    <Label value="B-toloc.country_name" background="#482"/>  
+    <Label value="I-arrive_time.period_of_day" background="#482"/>  
+    <Label value="B-return_time.period_mod" background="#482"/>  
+    <Label value="B-day_number" background="#482"/>  
+    <Label value="I-depart_time.time_relative" background="#482"/>  
+    <Label value="B-return_date.day_number" background="#482"/>  
+    <Label value="I-return_date.today_relative" background="#482"/>  
+    <Label value="B-return_time.period_of_day" background="#482"/>  
+    <Label value="B-time" background="#482"/>  
+    <Label value="B-days_code" background="#482"/>  
+    <Label value="I-arrive_time.time_relative" background="#482"/>  
+    <Label value="B-return_date.month_name" background="#482"/>  
+    <Label value="B-today_relative" background="#482"/>  
+    <Label value="I-return_date.date_relative" background="#482"/>  
+    <Label value="B-month_name" background="#482"/>  
+    <Label value="I-meal_description" background="#482"/>  
+    <Label value="B-state_name" background="#482"/>  
+    <Label value="B-time_relative" background="#482"/>  
+    <Label value="B-return_date.today_relative" background="#482"/>  
+    
+    <Label value="I-fare_basis_code" background="#482"/> 
+    <Label value="I-time" background="#482"/> 
+    <Label value="B-return_date.day_name" background="#482"/> 
+    <Label value="B-stoploc.airport_name" background="#482"/> 
+    
+    <Label value="B-fromloc.city_name" background="darkorange"/>
+    
+    <Label value="B-depart_date.day_name" background="green"/>
+    <Label value="B-airline_name" background="darkblue"/>
+    <Label value="I-fromloc.city_name" background="blue"/>
+    <Label value="B-depart_time.period_of_day" background="purple"/>
+    <Label value="I-airline_name" background="#842"/>
+    <Label value="B-depart_date.day_number" background="#428"/>
+    <Label value="B-depart_date.month_name" background="#482"/>
+    <Label value="B-depart_time.time" background="rgba(0,0,0,0.8)"/>
+    <Label value="B-round_trip" background="#382"/>
+    <Label value="I-round_trip" background="#682"/>
+    <Label value="B-cost_relative" background="#782"/>
+    <Label value="B-flight_mod" background="#982"/>
+    <Label value="B-depart_time.time_relative" background="#282"/>
+    <Label value="I-depart_time.time" background="#402"/>
+    <Label value="B-stoploc.city_name" background="#302"/>
+    <Label value="B-city_name" background="#222"/>
+    <Label value="B-class_type" background="#332"/>
+    <Label value="B-arrive_time.time" background="#502"/>
+    <Label value="B-arrive_time.time_relative" background="#182"/>
+	<Label value="I-class_type" background="#622"/>
+    <Label value="I-arrive_time.time" background="#482"/>
+    <Label value="B-flight_stop" background="#482"/>
+    
+    <Label value="I-toloc.city_name" background="orange"/>
+    <Label value="B-toloc.city_name" background="red"/>
+    
+    
+
+
+  </Labels>
+  <Text name="En" value="$En"/>
+  <Text name="IOB" value="$IOB"/>
+  <Text name="VN" value="$VN"/>
+
+
+</View>
