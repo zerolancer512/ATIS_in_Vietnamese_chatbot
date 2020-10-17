@@ -10,17 +10,27 @@
     
     <Label value="B-airline_code" background="#482"/>
     <Label value="B-flight_number" background="#482"/>
-    <Label value="B-arrive_date.day_name" background="#482"/>
-    <Label value="B-toloc.state_code" background="#482"/>
-    <Label value="B-depart_date.date_relative" background="#482"/>
     
+    
+    
+    
+    <Label value="B-arrive_date.day_name" background="#482"/>
+    <Label value="I-arrive_date.day_name" background="#482"/>
+    
+    
+    <Label value="B-toloc.state_code" background="#482"/>
+    <Label value="I-toloc.state_code" background="#482"/>
+    
+    
+    <Label value="B-depart_date.date_relative" background="#482"/>
+    <Label value="I-depart_date.date_relative" background="#482"/>
     
     
     
     <Label value="B-or" background="#482"/>
+    <Label value="I-or" background="#482"/>
     
     
-    <Label value="I-airport_name" background="#482"/>
     
     
      
@@ -29,20 +39,41 @@
      
      
      
-    <Label value="B-arrive_date.month_name" background="#482"/>  
+    <Label value="B-arrive_date.month_name" background="#482"/> 
+    <Label value="I-arrive_date.month_name" background="#482"/> 
+    
     <Label value="B-meal" background="#482"/>  
-    <Label value="B-fromloc.state_code" background="#482"/>  
+    <Label value="I-meal" background="#482"/> 
+    
+    
+    <Label value="B-fromloc.state_code" background="#482"/> 
+    <Label value="I-fromloc.state_code" background="#482"/>  
       
     <Label value="B-transport_type" background="#482"/>  
+    <Label value="I-transport_type" background="#482"/>
+    
+    
+    
+    
     <Label value="B-flight_days" background="#482"/>  
-    <Label value="B-connect" background="#482"/>  
+    <Label value="I-flight_days" background="#482"/> 
+    
+    
+    <Label value="B-connect" background="#482"/> 
+    <Label value="I-connect" background="#482"/>
       
     
     <Label value="B-depart_time.period_mod" background="#482"/>  
       
     <Label value="B-airport_name" background="#482"/>  
-    <Label value="B-aircraft_code" background="#482"/>  
+    <Label value="I-airport_name" background="#482"/>
+    
+    
+    <Label value="B-aircraft_code" background="#482"/> 
+    
+    
     <Label value="B-mod" background="#482"/>  
+    <Label value="I-mod" background="#482"/>
      
     <Label value="B-airport_code" background="#482"/>  
     
@@ -54,7 +85,7 @@
     
     
     <Label value="B-depart_date.year" background="#482"/>  
-    <Label value="I-transport_type" background="#482"/> 
+     <Label value="I-depart_date.year" background="#482"/>
     
     
       <Label value="B-depart_time.end_time" background="#482"/>
@@ -180,7 +211,7 @@
     
     
     <Label value="B-return_date.day_number" background="#482"/>  
-      
+      <Label value="I-return_date.day_number" background="#482"/>
     
     
     <Label value="B-return_time.period_of_day" background="#482"/>  
