@@ -5,7 +5,7 @@
     <Label value="B-fromloc.airport_name" background="#482"/>
     <Label value="I-fromloc.airport_name" background="#482"/>
     
-    
+    <Label value="B-arrive_date.today_relative" background="#482"/>
     
     
     <Label value="B-airline_code" background="#482"/>
