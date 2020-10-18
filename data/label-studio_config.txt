@@ -6,7 +6,7 @@
     <Label value="I-fromloc.airport_name" background="#482"/>
     
     <Label value="B-arrive_date.today_relative" background="#482"/>
-    
+    <Label value="I-arrive_date.today_relative" background="#482"/>
     
     <Label value="B-airline_code" background="#482"/>
     <Label value="B-flight_number" background="#482"/>
@@ -364,12 +364,8 @@
     <Label value="B-toloc.city_name" background="red"/>
     <Label value="I-toloc.city_name" background="orange"/>
     
-
-
   </Labels>
   <Text name="En" value="$En"/>
   <Text name="IOB" value="$IOB"/>
   <Text name="VN" value="$VN"/>
-
-
 </View>
