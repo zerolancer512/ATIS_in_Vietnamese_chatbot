@@ -70,7 +70,7 @@
     
     
     <Label value="B-aircraft_code" background="#482"/> 
-    
+    <Label value="I-aircraft_code" background="#482"/> 
     
     <Label value="B-mod" background="#482"/>  
     <Label value="I-mod" background="#482"/>
@@ -364,6 +364,7 @@
     <Label value="B-toloc.city_name" background="red"/>
     <Label value="I-toloc.city_name" background="orange"/>
     
+    <Label value="O" background="black"/> 
   </Labels>
   <Text name="En" value="$En"/>
   <Text name="IOB" value="$IOB"/>
